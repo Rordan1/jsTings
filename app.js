@@ -19,6 +19,7 @@ let array = [
 
 console.log(dog.race, dog.speed);
 
+console.log(array[0]);
 
 
 
