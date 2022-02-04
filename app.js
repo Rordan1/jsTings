@@ -17,7 +17,9 @@ let array = [
     ["embeded", 200],
 ]
 
-console.log(array);
+console.log(dog.race, dog.speed);
+
+
 
 
 
